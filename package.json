@@ -2,9 +2,9 @@
   "//1": "Hyper V4",
   "//2": "xxxx",
   "//3": "updating this file will download and update your packages",
-  "name": "hello-express",
-  "version": "0.0.1",
-  "description": "Hyper V4 codes",
+  "name": "hyper-v4",
+  "version": "4.0.0",
+  "description": "Hyper V4 Bot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -37,7 +37,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://github.com/HyperAlpha71/hyper-v4"
   },
   "license": "MIT",
   "keywords": [
